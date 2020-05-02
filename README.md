@@ -1,6 +1,6 @@
 # Legends-Online-MMORPG-Server
 
-This is my old project I was playing with in 2009 and 2010. It involves simple MMORPG game, that allows you to explore few maps and kill some monsters. There is an inventory/equipment/eatable systems and a loot system. You can cast offensive spell, (3 and arrow), healing spell (7 and arrow) or pick up drop while standing in mob's body (6 and arrow). 9 opens up inventory.
+This is my old project I was playing with in 2009 and 2010. It involves simple MMORPG game, that allows you to explore few maps and kill some monsters. There is an inventory/equipment/eatable systems and a loot system. You can cast offensive spell, (3 and arrow), healing spell (7 and arrow) or pick up drop while standing in mob's body (6 and arrow). "SELECT" and arrow keys allow you to mark mobs for attack. 9 opens up inventory.
 
 To compile:<br/>
 1. Download MinGW32 compiler<br/>
